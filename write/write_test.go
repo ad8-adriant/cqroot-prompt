@@ -5,9 +5,9 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/ad8-adriant/cqroot-prompt/constants"
+	"github.com/ad8-adriant/cqroot-prompt/write"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/cqroot/prompt/constants"
-	"github.com/cqroot/prompt/write"
 	"github.com/stretchr/testify/require"
 )
 

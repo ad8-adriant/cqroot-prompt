@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/ad8-adriant/cqroot-prompt/constants"
 	"github.com/charmbracelet/bubbles/help"
 	"github.com/charmbracelet/bubbles/key"
 	"github.com/charmbracelet/bubbles/textarea"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/cqroot/prompt/constants"
 )
 
 type Model struct {

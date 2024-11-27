@@ -8,7 +8,7 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/cqroot/multichoose"
 
-	"github.com/cqroot/prompt/constants"
+	"github.com/ad8-adriant/cqroot-prompt/constants"
 )
 
 type Model struct {

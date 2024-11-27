@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/cqroot/prompt"
+	"github.com/ad8-adriant/cqroot-prompt"
 )
 
 func CheckErr(err error) {

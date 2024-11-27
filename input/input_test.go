@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"testing"
 
+	"github.com/ad8-adriant/cqroot-prompt/constants"
+	"github.com/ad8-adriant/cqroot-prompt/input"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/cqroot/prompt/constants"
-	"github.com/cqroot/prompt/input"
 	"github.com/stretchr/testify/require"
 )
 

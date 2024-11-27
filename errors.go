@@ -3,7 +3,7 @@ package prompt
 import (
 	"errors"
 
-	"github.com/cqroot/prompt/constants"
+	"github.com/ad8-adriant/cqroot-prompt/constants"
 )
 
 var (

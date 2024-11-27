@@ -6,8 +6,8 @@ import (
 	"net"
 	"os"
 
-	"github.com/cqroot/prompt"
-	"github.com/cqroot/prompt/input"
+	"github.com/ad8-adriant/cqroot-prompt"
+	"github.com/ad8-adriant/cqroot-prompt/input"
 )
 
 var ErrInvalidIP = errors.New("invalid ip")

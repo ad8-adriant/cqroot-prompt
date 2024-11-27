@@ -1,4 +1,4 @@
-module github.com/cqroot/prompt
+module github.com/ad8-adriant/cqroot-prompt
 
 go 1.20
 

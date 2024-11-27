@@ -10,7 +10,7 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/stretchr/testify/require"
 
-	"github.com/cqroot/prompt/input"
+	"github.com/ad8-adriant/cqroot-prompt/input"
 )
 
 func TestWithTeaProgramOpts(t *testing.T) {

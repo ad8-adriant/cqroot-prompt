@@ -1,10 +1,10 @@
 package prompt
 
 import (
-	"github.com/cqroot/prompt/choose"
-	"github.com/cqroot/prompt/input"
-	"github.com/cqroot/prompt/multichoose"
-	"github.com/cqroot/prompt/write"
+	"github.com/ad8-adriant/cqroot-prompt/choose"
+	"github.com/ad8-adriant/cqroot-prompt/input"
+	"github.com/ad8-adriant/cqroot-prompt/multichoose"
+	"github.com/ad8-adriant/cqroot-prompt/write"
 )
 
 // Choose lets the user choose one of the given choices.
